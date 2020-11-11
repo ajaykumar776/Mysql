@@ -1,0 +1,26 @@
+count
+2
+submission_date	count(*)
+2020-03-17	2
+2020-03-18	3
+2020-03-19	2
+2020-03-20	2
+2020-03-21	1
+id	docate_id	status	created_date
+6	1	DELIEVERED	2020-03-25
+5	1	OUT_FOR_DELIEVERY	2020-03-23
+4	1	TO_HUB_REACHED	2020-03-22
+3	1	BOOKED	2020-03-17
+2	1	FROM_HUB_REACHED	2020-03-17
+1	1	CREATED	2020-03-17
+docate_id	count
+1	6
+2	6
+3	4
+4	3
+5	3
+6	2
+7	1
+8	6
+9	4
+10	1
